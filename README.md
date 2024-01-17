@@ -1,5 +1,9 @@
-# An Implementation of Ensemble Learning using Transformers and Convolutional Networks for Masked Face Recognition
-This repository contains the code implementation of the paper **[Ensemble Learning using Transformers and Convolutional Networks for Masked Face Recognition](https://arxiv.org/abs/2210.04816)** by Al-Sinan et al. , and some further exploration for improvements.
+# An Implementation of Ensemble Learning using Transformers and Convolutional Networks for Masked Face Recognitions
+This repository contains further exploration for improvements on the code implementation of the paper **[Ensemble Learning using Transformers and Convolutional Networks for Masked Face Recognition](https://arxiv.org/abs/2210.04816)** by Al-Sinan et al.
+## Authors and Contributors
+1. Jyotishka Das
+2. Shubham Agarwal
+3. Vanshika Jain
 
 ## Overview
 Wearing a face mask was one of the changes we had to make to slow the spread of the coronavirus. The constant covering of our faces with masks has created a need to understand and investigate how this behavior affects the recognition capability of face recognition systems. When dealing with unconstrained general face recognition cases, current face recognition systems have extremely high accuracy, but they do not generalize well with occluded masked faces. The proposed method combines two popular deep learning techniques, Convolutional Neural Networks (CNNs) and Transformers, to produce an ensemble model capable of accurately recognizing masked faces. Two CNN model, fine-tuned on FaceNet pre-trained models extracting features from the face image, with two Transformer model learning the relationship between these features and the person's identity were combined in the ensemble using majory voting or average weighted method. Experiment results showed that the proposed ensemble model outperforms existing state-of-the-art masked face recognition methods with a 92% accuracy.
