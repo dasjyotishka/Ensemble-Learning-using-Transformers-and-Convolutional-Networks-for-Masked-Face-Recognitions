@@ -1,5 +1,5 @@
 # An Implementation of Ensemble Learning using Transformers and Convolutional Networks for Masked Face Recognitions
-This repository contains further exploration for improvements on the code implementation of the paper **[Ensemble Learning using Transformers and Convolutional Networks for Masked Face Recognition](https://arxiv.org/abs/2210.04816)** by Al-Sinan et al.
+This repository contains suggestions for further explorationas and improvements on the implementation of the paper **[Ensemble Learning using Transformers and Convolutional Networks for Masked Face Recognition](https://arxiv.org/abs/2210.04816)** by Al-Sinan et al.
 ## Authors and Contributors
 1. Jyotishka Das
 2. Shubham Agarwal
